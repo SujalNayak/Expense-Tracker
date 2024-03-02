@@ -5,7 +5,7 @@
   "main": "App.js",
   "scripts": {
     "start": "node App.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npm run build"
   },
   "author": "Sujal Nayak",
   "license": "ISC",
